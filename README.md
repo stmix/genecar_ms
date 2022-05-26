@@ -4,5 +4,5 @@ Stara wersja aplikacji, stworzona przeze mnie przed połączeniem sił z @Klimek
 
 ## Status projektu
 
->Nieaktywny
+>Nieaktywny<
 Projekt zachowany jako pamiątka i szablon.
